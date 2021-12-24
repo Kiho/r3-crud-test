@@ -1,5 +1,5 @@
 {
-    "name": "starter",
+    "name": "r3-crud-test",
     "type": "module",
     "scripts": {
         "build": "vite build",
