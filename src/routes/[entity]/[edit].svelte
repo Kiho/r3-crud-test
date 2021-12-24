@@ -11,7 +11,7 @@
   <h2>Entity: {entity}</h2>
   <h3>Edit: {id}</h3>
   <div>    
-    <a href={$url('../')}>Go back</a>
+    <a href={$url('../../')}>Go back</a>
   </div>
 </div>
 
