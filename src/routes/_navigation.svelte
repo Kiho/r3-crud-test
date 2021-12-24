@@ -11,10 +11,15 @@
         </a>
       </li>
       <li>
+        <a href="/test">
+          /test
+        </a>
+      </li>
+      <li>
         <a href="/test/1">
           /test/1
         </a>
-      </li>
+      </li>      
       <li>
         <a href="/test/2">
           /test/2
